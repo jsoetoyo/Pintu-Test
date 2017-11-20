@@ -101,3 +101,13 @@ h2{
   font-size: 20px;
   align-self: center;
 }
+
+.button{
+  background-color: rgb(40,44,52);
+  border: none;
+  color: red;
+  padding: 15px 32px;
+  text-align: left;
+  display: inline-flex;
+  font-size: 40px;
+}
